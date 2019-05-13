@@ -1,7 +1,7 @@
 <?php
 $merchant_email="info@zoomtravel.ae";
 $secret_key='xEQgqmTZ3DDQS29oWE5uv1jSXVFiKshi78yxuswx5aoXcxm9crEHtXAqSfJDH1WP9vmEXSc22A0f8mokO22iZCISSswAutpEYLiV	';
-
+// echo "aaaaaaaaa";
 
 $values = array();
 $values['merchant_email'] = $merchant_email;
